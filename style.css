@@ -461,7 +461,7 @@ padding: auto;
   display: flex;
   align-items: center;
   justify-content: center;
-  background:url(https://images.pexels.com/photos/3159900/pexels-photo-3159900.jpeg?_gl=1*4lvzmp*_ga*NzAyNTAzNjIzLjE3NTAzODcyODE.*_ga_8JE65Q40S6*czE3NTM2MzkzNzYkbzQkZzEkdDE3NTM2MzkzOTQkajQyJGwwJGgw)
+
   
 }
 .conatiner-de-localiacao {
@@ -471,7 +471,7 @@ padding: auto;
   width: 100%;
   height: 78vh;
   box-sizing: border-box;
-  background: url(/loc/loc-3.jpg) no-repeat;
+  background: url(https://images.pexels.com/photos/3159900/pexels-photo-3159900.jpeg?_gl=1*4lvzmp*_ga*NzAyNTAzNjIzLjE3NTAzODcyODE.*_ga_8JE65Q40S6*czE3NTM2MzkzNzYkbzQkZzEkdDE3NTM2MzkzOTQkajQyJGwwJGgw) no-repeat;
   background-size: cover;
   display: flex;
     justify-content: center;
